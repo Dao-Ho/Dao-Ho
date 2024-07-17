@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Dao,
 ## I am a second-year Computer Science and Business Administration student at Northeastern University.
 ### Currently, I'm learning Website Development specializing in frameworks: React, Next.js, and TailwindCSS.
+### What I'm building: planIt, a chrome extension that converts highlighted texts to Google Calendar events.
 ### I am always eager to learn more! You can reach me at:  
 ### ho.dao@northeastern.edu
 <!--
