@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Dao,
 ## I am a second-year Computer Science and Business Administration student at Northeastern University.
-### My specialty currently lies in Software Development (Next.js, React Native, etc.) 
-### What I'm building: planIt, a chrome extension that converts highlighted texts to Google Calendar events.
+### My specialty currently lies in Software Development
 ### I am always eager to learn more! You can reach me at:  
 ### ho.dao@northeastern.edu
 <!--
