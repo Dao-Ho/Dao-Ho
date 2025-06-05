@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Dao,
-## I am a second-year Computer Science and Business Administration student at Northeastern University.
+## I am a third-year Computer Science and Business Administration student at Northeastern University.
 ## Member of Technical Staff @ Stealth
 ### I am always eager to learn more! You can reach me at:  
 ### ho.dao@northeastern.edu
