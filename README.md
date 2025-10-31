@@ -1,8 +1,6 @@
-# Hi there 👋 I'm Dao,
-## I am a third-year Computer Science and Finance student at Northeastern University.
-## Member of Technical Staff Co-op @ Stealth
-### I am always eager to learn more! You can reach me at:  
-### ho.dao@northeastern.edu
+Hi, I like building things. A lot. 
+
+ho.dao@northeastern.edu
 <!--
 **Dao-Ho/Dao-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
